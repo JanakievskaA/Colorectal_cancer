@@ -39,7 +39,8 @@
 ##  Interpretability  
 
 - **Feature Importance (XGBoost):** Ranked most relevant predictors, model achieved R² = 0.78 on test data 
-- **SHAP Analysis:** Showed not only variable importance but also *direction of influence* (e.g., higher fat supply → higher incidence)  
+- **SHAP Analysis:** Showed not only variable importance but also *direction of influence* (e.g., higher fat supply → higher incidence)
+- 
 
 ---
 
@@ -51,6 +52,7 @@
   - **Low Risk (55 countries):** Mainly Africa & SE Asia – plant-based diets, lowest incidence  
   - **Medium Risk (69 countries):** Europe, Asia, Latin America – mixed dietary patterns, moderate incidence  
   - **High Risk (21 countries):** Mostly Europe & Oceania – high fat and animal protein intake, highest incidence  
+<img width="907" height="651" alt="PCA" src="https://github.com/user-attachments/assets/44d8bb27-00ee-4e20-afcf-33df8b25afd5" />
 
 ---
 
