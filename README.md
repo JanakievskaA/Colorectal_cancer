@@ -40,7 +40,6 @@
 
 - **Feature Importance (XGBoost):** Ranked most relevant predictors, model achieved R² = 0.78 on test data 
 - **SHAP Analysis:** Showed not only variable importance but also *direction of influence* (e.g., higher fat supply → higher incidence)
-- 
 
 ---
 
