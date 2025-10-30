@@ -39,7 +39,7 @@
 ##  Interpretability  
 
 - **Feature Importance (XGBoost):** Ranked most relevant predictors, model achieved R² = 0.78 on test data 
-- **SHAP Analysis:** Showed not only variable importance but also *direction of influence* (e.g., higher fat supply → higher incidence)
+- **SHAP Analysis:** Showed not only variable importance but also *direction of influence* 
 
 ---
 
@@ -57,5 +57,5 @@
 
 ##  Conclusion  
 
-This project shows how machine learning can improve cancer epidemiology by combining predictive modeling, interpretability, and clustering. The findings highlight the value of data-driven methods for designing targeted prevention strategies and allocating health resources more effectively.  
+This project shows how machine learning can improve cancer epidemiology by combining predictive modeling, interpretability and clustering. The findings highlight the value of data-driven methods for designing targeted prevention strategies and allocating health resources more effectively.  
 
